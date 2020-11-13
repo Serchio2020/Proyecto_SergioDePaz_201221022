@@ -3,7 +3,7 @@
 <font style="color: Blue"> Fecha Guatemala, Noviembre 2020 </font>
 <br>
 <h2><font style="color: Blue"> Presentacion Proyecto  </font> </h2>
-<font style="color: Blue"> Este proyecto consiste en la creacion de aplicacion de escritorio, enlazada a base de datos con Sql server y automatizada por herramienta de robotica UiPath. </font>
+<font style="color: Blue"> Este proyecto consiste en la creacion de aplicacion de escritorio, enlazada a base de datos con Sql server y automatizada por herramienta de robotica UiPath. <br> Proyecto con la finalidad de apoyar en la gestion de una Agencia de Viajes  llamada: GuateMayan Travel Agency </font>
 <hr>
 <center><img src="imagenes/robotlogo.jpg" width="auto" height="auto"> </center>
 
